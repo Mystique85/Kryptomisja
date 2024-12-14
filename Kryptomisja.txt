@@ -1,0 +1,28 @@
+Kryptomisja
+Kryptomisja to projekt Discordowy skupiony na działaniach na blockchainie i odbieraniu airdropów.
+
+Funkcje
+Zautomatyzowane powiadomienia o nowych airdropach.
+Integracja z portfelami blockchain.
+Bot Discordowy do powiadomień o możliwościach odbioru airdropów.
+Instalacja
+Sklonuj repozytorium:
+bash
+Skopiuj kod
+git clone https://github.com/twoje-imie/Kryptomisja.git
+Zainstaluj zależności (jeśli wymagane):
+bash
+Skopiuj kod
+npm install
+Skonfiguruj bota i zintegrować z Twoim portfelem (postępuj zgodnie z instrukcjami w pliku konfiguracyjnym).
+Użycie
+Po uruchomieniu bota, będzie on powiadamiał Cię o nowych airdropach, w zależności od Twoich ustawień i preferencji.
+
+Współpraca
+Sklonuj repozytorium.
+Stwórz swoją gałąź (git checkout -b feature-nazwa).
+Dodaj zmiany (git commit -am 'Dodaj nową funkcję').
+Wypchnij na gałąź (git push origin feature-nazwa).
+Otwórz pull request.
+Licencja
+Projekt jest objęty licencją MIT - zobacz plik LICENSE, aby poznać szczegóły.
