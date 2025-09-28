@@ -3,7 +3,7 @@
 ```markdown
 # 🐂 Kryptomisja
 
-![Kryptomisja Logo](https://github.com/Mystique85/Kryptomisja/blob/main/dT6oSizV_400x400.jpg?raw=true)
+![Kryptomisja Logo](dT6oSizV_400x400.jpg)
 
 **Kryptomisja** to społeczność skupiona wokół kryptowalut, airdropów i edukacji w zakresie blockchaina.  
 Naszym celem jest dzielenie się wiedzą, odkrywanie nowych projektów i wspólne działania pod potencjalne okazje w świecie krypto. 🚀
