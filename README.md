@@ -10,7 +10,7 @@ Naszym celem jest dzielenie się wiedzą, odkrywanie nowych projektów i wspóln
 
 ---
 
-## 🔗 Gdzie nas znajdziesz?
+## 🔗 Gdzie nas znajdziesz? 
 - 💬 Discord: [Dołącz do społeczności](https://discord.gg/Hub5CygY7B)  
 - 🐦 X (Twitter): [@Krypto_Misja](https://x.com/Krypto_Misja)  
 
@@ -22,7 +22,7 @@ Naszym celem jest dzielenie się wiedzą, odkrywanie nowych projektów i wspóln
 
 ---
 
-## 🤝 Współpraca
+## 🤝 Współpraca - zgłoś swoje uwagi
 To repozytorium jest tworzone wspólnie – każdy może wnosić swoje pomysły i materiały poprzez pull requesty.  
 Jeśli chcesz dołączyć do zespołu, skontaktuj się z nami na Discordzie.
 ```
