@@ -6,7 +6,7 @@
 ![Kryptomisja Logo](dT6oSizV_400x400.jpg)
 
 **Kryptomisja** to społeczność skupiona wokół kryptowalut, airdropów i edukacji w zakresie blockchaina.  
-Naszym celem jest dzielenie się wiedzą, odkrywanie nowych projektów i wspólne działania pod potencjalne okazje w świecie krypto. 🚀
+Naszym celem jest dzielenie się wiedzą, odkrywanie nowych projektów i wspólne działania pod potencjalne okazje w świecie krypto. 
 
 ---
 
